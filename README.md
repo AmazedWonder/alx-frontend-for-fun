@@ -8,5 +8,5 @@
 * HTML
 * CSS
 * JavaScript
-This is a paragraph used in:
-testing markdown in html
+This is a **paragraph** used in:
+testing __markdown__ in html
