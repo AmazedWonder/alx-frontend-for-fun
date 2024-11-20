@@ -1,1 +1,4 @@
-This project focuses on using Html, Css and Javascript basics
+This project focuses on using:
+Html, 
+Css and 
+Javascript basics
