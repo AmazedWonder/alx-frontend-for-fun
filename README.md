@@ -2,3 +2,6 @@
 ## Html, 
 ## Css and 
 ## Javascript basics
+- HTML
+- CSS
+- JavaScript
